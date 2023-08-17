@@ -3239,7 +3239,7 @@ input, select, textarea {
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat; */
-			background: url(/Users/huffythevampire/Desktop/codin/Kit-Huff-Portfolio/html5up-massively/images/bgpic.JPG), center no-repeat;
+			background: url(/../images/bgpic.JPG), center no-repeat;
 			background-size: cover;
 			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
@@ -3261,7 +3261,7 @@ input, select, textarea {
 			-webkit-transition-delay: 2.75s;
 			-ms-transition-delay: 2.75s;
 			transition-delay: 2.75s;
-			background: #1e252d url(/Users/huffythevampire/Desktop/codin/Kit-Huff-Portfolio/html5up-massively/images/bgpic.JPG) center no-repeat;
+			background: #1e252d url(/../images/bgpic.JPG) center no-repeat;
 			background-size: cover;
 			content: '';
 			display: block;
