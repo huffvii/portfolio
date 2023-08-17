@@ -3239,7 +3239,7 @@ input, select, textarea {
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat; */
-			background: url(/../images/bgpic.JPG), center no-repeat;
+			background: url(/../../images/bgpic.JPG), center no-repeat;
 			background-size: cover;
 			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
