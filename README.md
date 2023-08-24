@@ -1,6 +1,6 @@
 # Portfolio
 
-<img width="1512" alt="Screenshot 2023-08-24 at 11 41 38 AM" src="https://github.com/huffvii/portfolio/assets/98131790/98e4fc2e-0503-42cb-98b6-2fb40de46b6a">
+<img width="1512" alt="Portfolio Home Page" src="/images/Portfolio-Home-Page.png">
 
 
 Included is my portfolio which was originally created in August of 2022.
